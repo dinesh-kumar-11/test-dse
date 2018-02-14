@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.tinkerpop:gremlin-shaded:3.2.7">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tinkerpop/gremlin-shaded/3.2.7/d7f65c3ad9519d57cc526ac9166f68188301003c/gremlin-shaded-3.2.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tinkerpop/gremlin-shaded/3.2.7/298b6bbe0a4b05754f9bd71e3f778f8d89aca0fc/gremlin-shaded-3.2.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

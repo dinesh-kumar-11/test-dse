@@ -1,0 +1,27 @@
+
+usquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ÿ»Š8©õ´Î˜,
+usquid:S1450"YRemove the "dseCluster" field and declare it as a local variable in the relevant methods.(şº¢õ8©õ´Î˜,
+Ssquid:S1313"2Make this IP "10.219.250.21" address configurable.(áı€Èúÿÿÿÿ8©õ´Î˜,
+Ssquid:S1313"2Make this IP "10.219.250.84" address configurable.(áı€Èúÿÿÿÿ8©õ´Î˜,
+Tsquid:S1313"3Make this IP "10.219.250.188" address configurable.(áı€Èúÿÿÿÿ8©õ´Î˜,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÊÇºõ8©õ´Î˜,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(“¥8©õ´Î˜,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¥Ğ“²úÿÿÿÿ8©õ´Î˜,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(¼§­î8©õ´Î˜,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(Û¨¯¥8©õ´Î˜,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(²ú‘Æüÿÿÿÿ8©õ´Î˜,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(–Ïêûøÿÿÿÿ8©õ´Î˜,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÆÀûı8©õ´Î˜,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(–Ïêûøÿÿÿÿ8©õ´Î˜,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÆÀûı8©õ´Î˜,
+bsquid:HiddenFieldCheck";Rename "session" which hides the field declared at line 77.(Ú¬·8©õ´Î˜,
+Ksquid:S00108")Either remove or fill this block of code.(ğ±‡Øúÿÿÿÿ8©õ´Î˜,
+hsquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(îªö—ùÿÿÿÿ8©õ´Î˜,
+Vsquid:S1161":Add the "@Override" annotation above this method signature(“–ış8©õ´Î˜,

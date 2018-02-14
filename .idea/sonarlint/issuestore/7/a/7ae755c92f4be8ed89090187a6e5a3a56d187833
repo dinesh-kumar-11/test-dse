@@ -1,0 +1,18 @@
+
+Ssquid:S1313"2Make this IP "10.219.250.21" address configurable.(áı€Èúÿÿÿÿ8©õ´Î˜,
+Ssquid:S1313"2Make this IP "10.219.250.84" address configurable.(áı€Èúÿÿÿÿ8©õ´Î˜,
+Tsquid:S1313"3Make this IP "10.219.250.188" address configurable.(áı€Èúÿÿÿÿ8©õ´Î˜,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(è£ëúÿÿÿÿ8©õ´Î˜,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(“Ú¥º8©õ´Î˜,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ñ¿Ğ»8©õ´Î˜,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.( æÆÀ8©õ´Î˜,
+bsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8©õ´Î˜,
+{squid:S2273"`Move this call to "wait()" into a synchronized block to be sure the monitor on "Thread" is held.(ö™Áz8©õ´Î˜,
+Usquid:S2274":Remove this call to "wait" or move it into a "while" loop.(ö™Áz8©õ´Î˜,
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùôÚııÿÿÿÿ8©õ´Î˜,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8©õ´Î˜,
+ksquid:S2236"PRefactor the synchronisation mechanism to not use a Thread instance as a monitor(ö™Áz8©õ´Î˜,

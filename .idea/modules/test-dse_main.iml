@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="test-dse:main" external.linked.project.path="$MODULE_DIR$/../.." external.root.project.path="$MODULE_DIR$/../.." external.system.id="GRADLE" external.system.module.group="test-dse" external.system.module.type="sourceSet" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration />
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_7">
+    <output url="file://$MODULE_DIR$/../../out/production/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../src/main">
+      <sourceFolder url="file://$MODULE_DIR$/../../src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/main/resources" type="java-resource" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Gradle: com.datastax.dse:dse-java-driver-graph:1.4.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.tinkerpop:gremlin-groovy:3.2.5" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.tinkerpop:tinkergraph-gremlin:3.2.5" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.tinkerpop:gremlin-core:3.2.7" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.tinkerpop:gremlin-shaded:3.2.7" level="project" />
+    <orderEntry type="library" name="Gradle: commons-configuration:commons-configuration:1.10" level="project" />
+    <orderEntry type="library" name="Gradle: org.yaml:snakeyaml:1.15" level="project" />
+    <orderEntry type="library" name="Gradle: org.javatuples:javatuples:1.2" level="project" />
+    <orderEntry type="library" name="Gradle: com.carrotsearch:hppc:0.7.1" level="project" />
+    <orderEntry type="library" name="Gradle: com.jcabi:jcabi-manifests:1.1" level="project" />
+    <orderEntry type="library" name="Gradle: com.squareup:javapoet:1.8.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.slf4j:jcl-over-slf4j:1.7.21" level="project" />
+    <orderEntry type="library" name="Gradle: com.datastax.dse:dse-java-driver-core:1.4.1" level="project" />
+    <orderEntry type="library" name="Gradle: io.dropwizard.metrics:metrics-core:3.2.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.slf4j:slf4j-api:1.7.25" level="project" />
+    <orderEntry type="library" name="Gradle: commons-lang:commons-lang:2.6" level="project" />
+    <orderEntry type="library" name="Gradle: com.jcabi:jcabi-log:0.14" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-handler:4.0.47.Final" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.guava:guava:19.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.github.jnr:jnr-posix:3.0.27" level="project" />
+    <orderEntry type="library" name="Gradle: com.github.jnr:jnr-ffi:2.0.7" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.ivy:ivy:2.3.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.codehaus.groovy:groovy-groovysh:indy:2.4.11" level="project" />
+    <orderEntry type="library" name="Gradle: org.codehaus.groovy:groovy-json:indy:2.4.11" level="project" />
+    <orderEntry type="library" name="Gradle: org.codehaus.groovy:groovy-jsr223:indy:2.4.11" level="project" />
+    <orderEntry type="library" name="Gradle: org.codehaus.groovy:groovy-console:2.4.11" level="project" />
+    <orderEntry type="library" name="Gradle: org.codehaus.groovy:groovy-templates:2.4.11" level="project" />
+    <orderEntry type="library" name="Gradle: org.codehaus.groovy:groovy-swing:2.4.11" level="project" />
+    <orderEntry type="library" name="Gradle: org.codehaus.groovy:groovy-xml:2.4.11" level="project" />
+    <orderEntry type="library" name="Gradle: org.codehaus.groovy:groovy:indy:2.4.11" level="project" />
+    <orderEntry type="library" name="Gradle: org.codehaus.groovy:groovy:2.4.11" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.commons:commons-lang3:3.3.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.mindrot:jbcrypt:0.4" level="project" />
+    <orderEntry type="library" name="Gradle: com.github.ben-manes.caffeine:caffeine:2.3.1" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-codec:4.0.47.Final" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-transport:4.0.47.Final" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-buffer:4.0.47.Final" level="project" />
+    <orderEntry type="library" name="Gradle: com.github.jnr:jffi:1.2.10" level="project" />
+    <orderEntry type="library" name="Gradle: com.github.jnr:jffi:native:1.2.10" level="project" />
+    <orderEntry type="library" name="Gradle: org.ow2.asm:asm-commons:5.0.3" level="project" />
+    <orderEntry type="library" name="Gradle: org.ow2.asm:asm-analysis:5.0.3" level="project" />
+    <orderEntry type="library" name="Gradle: org.ow2.asm:asm-util:5.0.3" level="project" />
+    <orderEntry type="library" name="Gradle: org.ow2.asm:asm-tree:5.0.3" level="project" />
+    <orderEntry type="library" name="Gradle: org.ow2.asm:asm:5.0.3" level="project" />
+    <orderEntry type="library" name="Gradle: com.github.jnr:jnr-x86asm:1.0.2" level="project" />
+    <orderEntry type="library" name="Gradle: com.github.jnr:jnr-constants:0.9.0" level="project" />
+    <orderEntry type="library" name="Gradle: jline:jline:2.12" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-common:4.0.47.Final" level="project" />
+  </component>
+</module>

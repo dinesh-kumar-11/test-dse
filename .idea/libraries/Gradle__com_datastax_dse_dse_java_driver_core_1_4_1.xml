@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.datastax.dse:dse-java-driver-core:1.4.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.datastax.dse/dse-java-driver-core/1.4.1/9625dd9112c2edfbeda210ced2668c71043616be/dse-java-driver-core-1.4.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.datastax.dse/dse-java-driver-core/1.4.1/a201267adacbf1a4c87d5252487ed4b27f888eb9/dse-java-driver-core-1.4.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
